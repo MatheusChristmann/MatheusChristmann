@@ -1,7 +1,8 @@
 ### Olá! Eu sou o Matheus Felipe Christmann!
 
-- 🔭 Atualmente trabalho como Técnico de Suporte ao Usuário na Microsys Sistemas
-- 🌱 Estou estudando a linguagem Java e Banco de Dados
+- 🔭 Sou Técnico de Suporte ao Usuário na Microsys Sistemas.
+- 🌱 Atualmente sou acadêmico de Ciência da Computação da UNOESC e estou estudando Java e Banco de Dados.
+- 🏆 Sou Beecrowder e meu objetivo é estar entre os melhores da plataforma!
 
 <div align="center">
   <a href="https://github.com/matheuschristmann">
@@ -21,7 +22,6 @@
  <div> 
   <a href="https://www.linkedin.com/in/matheus-christmann-7ba7ba207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/mathchristmann/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:matheus.ch35@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "mailto:matheus.ch35@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/matheuschristmann/matheuschristmann/blob/output/github-contribution-grid-snake.svg)
