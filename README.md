@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Matheus Felipe Christmann!
 
-- 🔭 Sou Técnico de Suporte ao Usuário na Microsys Sistemas.
-- 🌱 Atualmente sou acadêmico de Ciência da Computação da UNOESC e estou estudando Java e Banco de Dados.
+- 🔭 Sou Programador Delphi na Microsys Sistemas.
+- 🌱 Atualmente sou acadêmico de Ciência da Computação da UNOESC e estou estudando Java, Banco de Dados e Engenharia de Software.
 - 🏆 Sou Beecrowder e meu objetivo é estar entre os melhores da plataforma!
 
 <div align="center">
@@ -10,15 +10,17 @@
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-Arduino" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-  <img align="center" alt="Matheus-Arduino" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="Matheus-Git" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-  <img align="center" alt="Matheus-TotoiseGit" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-plain.svg" />
-  <img align="center" alt="Matheus-MySQL" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Matheus-C" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="Matheus-Git" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Matheus-TotoiseGit" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-original.svg" />
+  <img align="center" alt="Matheus-MySQL" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
   <img align="center" alt="Matheus-Arduino" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="Matheus-Java" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Matheus-Java" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Matheus-Kaggle" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" />
+  <img align="center" alt="Matheus-Trello" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
   <img align="right" alt="MatheusImage" height="160" style="border-radius:50px;" src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_872%2Cw_1920&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1589321797%2F997d372017a246d3289457d95b148576%2FMatheus.png">
 </div>
-  
+    
    ##
   
  <div> 
