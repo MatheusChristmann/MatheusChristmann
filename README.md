@@ -4,10 +4,7 @@
 - 🌱 Atualmente sou acadêmico de Ciência da Computação da UNOESC e estou estudando Java, Banco de Dados e Engenharia de Software.
 - 🏆 Sou Beecrowder e meu objetivo é estar entre os melhores da plataforma!
 
-<div align="center">
-  <a href="https://github.com/matheuschristmann">
-  <img height="170em" width="390em" src="https://github-readme-stats.vercel.app/api?username=matheuschristmann&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-</div>
+
   <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-Arduino" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
   <img align="center" alt="Matheus-C" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
