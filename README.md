@@ -1,8 +1,7 @@
 ### Olá! Eu sou o Matheus Felipe Christmann!
 
-- 🔭 Sou Programador Delphi na Microsys Sistemas.
-- 🌱 Atualmente sou acadêmico de Ciência da Computação da UNOESC e estou estudando Java, Banco de Dados e Engenharia de Software.
-- 🏆 Sou Beecrowder e meu objetivo é estar entre os melhores da plataforma!
+- 🔭 Sou Programador Delphi Trainee na Microsys Sistemas.
+- 🌱 Atualmente sou acadêmico de Ciência da Computação da UNOESC e estou estudando Flutter, Banco de Dados e Engenharia de Software.
 
 
   <div style="display: inline_block"><br>
