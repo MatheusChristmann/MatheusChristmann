@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Matheus Felipe Christmann!
 
-- 🔭 Sou Programador Delphi Trainee na Microsys Sistemas.
-- 🌱 Atualmente sou acadêmico de Ciência da Computação da UNOESC e estou estudando Flutter, Banco de Dados e Engenharia de Software.
+- 🔭 Sou Programador Delphi na Microsys Sistemas.
+- 🌱 Atualmente sou acadêmico de Ciência da Computação da UNOESC e estou estudando Computação Gráfica e Linguagens e Métodos Formais.
 
 
   <div style="display: inline_block"><br>
